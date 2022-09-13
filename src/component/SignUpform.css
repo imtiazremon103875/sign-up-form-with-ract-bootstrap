@@ -1,0 +1,33 @@
+
+
+
+.root-element{
+    margin-left: 0!important;
+    margin-right: 2vh!important;
+    height:100vh
+}
+.sign-up-section{
+    width: 50%;
+    background-image: url("../image/background-img.png");
+
+   
+    
+
+ 
+}
+.auth-style{
+    margin-top: 33vh;
+}
+.auth-styles{
+    margin-top: 20vh;
+}
+
+.sign-up-section-form{
+    background-image: url("../image/Group\ 21.svg"),url("../image/Group\ 21.svg");
+    background-repeat: no-repeat,no-repeat;
+    background-position: right top, left bottom;
+   
+}
+.div-section{
+    padding-left: 250px;
+}
